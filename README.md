@@ -12,5 +12,5 @@ Main criterias are:
 
 Notebooks:
 - Main notebook : Dog_Friendly_Neigbourhoods.ipynb  
-- Crime Rate calculations:London_crime_statistics.ipynb   
+- Crime Rate calculations: London_crime_statistics.ipynb   
 - Near by park calculations using Foursquare API : London_parks.ipynb  
